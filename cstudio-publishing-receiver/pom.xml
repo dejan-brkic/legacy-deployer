@@ -17,7 +17,7 @@
     </parent>
 	
     <properties>
-        <jetty-version>8.1.2.v20120308</jetty-version>
+        <jetty-version>9.3.24.v20180605</jetty-version>
         <spring.version>4.0.3.RELEASE</spring.version>
     </properties>
 
@@ -226,7 +226,7 @@
         <dependency>
             <groupId>org.eclipse.jgit</groupId>
             <artifactId>org.eclipse.jgit</artifactId>
-            <version>4.1.1.201511131810-r</version>
+            <version>5.1.0.201809111528-r</version>
         </dependency>
         <dependency>
             <groupId>org.quartz-scheduler</groupId>
